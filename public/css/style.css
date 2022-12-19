@@ -1,0 +1,21 @@
+
+.cerrar{
+    padding: 10px; margin: 10px; float: right; width: 250px;
+}
+
+.body{
+    color: rgb(239, 197, 197)
+}
+
+.banner {
+    width: 100%;
+    height: 15vh;
+    background: rgb(155,146,242);
+    background: rgba(255,255,255,1) 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 0%;
+    position: relative;
+    
+}
